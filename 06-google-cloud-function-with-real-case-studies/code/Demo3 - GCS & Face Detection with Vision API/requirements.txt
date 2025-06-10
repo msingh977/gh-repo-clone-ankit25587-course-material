@@ -2,3 +2,4 @@
 # package>=version
 google-cloud-vision==2.6.1
 google-cloud-storage==1.42.2
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
